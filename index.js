@@ -792,7 +792,7 @@
 
 		  GM_xmlhttpRequest({
 			  method: "POST",
-			  url: "",
+			  url: "WEBHOOK_URL",
 			  headers: {
 				  "Content-Type": "application/json"
 			  },
