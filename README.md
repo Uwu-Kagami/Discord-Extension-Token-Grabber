@@ -40,7 +40,7 @@ This **Discord Extension Token Grabber** is a user script (for Tampermonkey/Viol
 📥 **Steps**  
 1. Install Tampermonkey or Violentmonkey  
 2. Create a new user script  
-3. Copy-paste the contents of `script3.js`  
+3. Copy-paste the contents of `index.js`  
 4. 🔧 Go to **line 795** and replace:
 
 ```js
