@@ -5,7 +5,7 @@
 <h1 align="center">🕵️‍♂️ Discord Extension Token Grabber</h1>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/YourUsername/Anti-Debugger/main/LICENSE">
+  <a href="https://raw.githubusercontent.com/Uwu-Kagmi/Anti-Debugger/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-red?style=flat-square">
   </a>
   <a href="https://github.com/Uwu-Kagami/Discord-Extension-Token-Grabber">
@@ -64,8 +64,8 @@ This script is a **proof of concept** for demonstrating how easily user tokens c
 ## 📚 For Educational Purposes Only  
 This project was created to raise awareness of potential attack vectors through user scripts and browser injections.  
 
-**Author:** `YourUsername`  
-**License:** [MIT](https://github.com/YourUsername/Discord-Extension-Token-Grabber/blob/main/LICENSE)
+**Author:** `Uwu-Kagmi`  
+**License:** [MIT](https://github.com/Uwu-Kagmi/Discord-Extension-Token-Grabber/blob/main/LICENSE)
 
 ---
 
