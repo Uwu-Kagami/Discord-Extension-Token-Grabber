@@ -70,8 +70,7 @@ This script is a **proof of concept** for demonstrating how easily user tokens c
 This project was created to raise awareness of potential attack vectors through user scripts and browser injections.  
 
 **Author:** `Uwu-Kagmi`  
-**Credit For The Main Extension:** [victornpb](https://github.com/victornpb) /n 
-**License:** [MIT](https://github.com/Uwu-Kagmi/Discord-Extension-Token-Grabber/blob/main/LICENSE)
+**Credit For The Main Extension:** [victornpb](https://github.com/victornpb)
 
 ---
 
